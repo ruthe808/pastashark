@@ -11,7 +11,7 @@
 drink <- function(shots) {
   if (shots < 1) {
   print("take another shot")
-} else if (shots >= 3 & shots <5) {
+} else if (shots >= 3 & shots <6) {
   print("take one last shot")
 } else {
   print("have a fun time :)")
